@@ -1,4 +1,4 @@
-# Amazone-Mobile-Reviews-Sentiment-Analysis
+# Amazone-Customer-Reviews-Sentiment-Analysis
 
 # Objective
 – Scrape the customer reviews for 10 mobile phones listed on Amazon and perform
